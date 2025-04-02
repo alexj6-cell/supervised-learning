@@ -1,3 +1,5 @@
-# supervised-learning
-Dataset taken from kaggle
-Fake news dataset
+# Project Title
+## Installation Steps
+1. Clone the repository.
+2. Install dependencies.
+3. Run the application.
